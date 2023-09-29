@@ -1,0 +1,7 @@
+:root {
+  --primary: #F2F2F2;
+}
+
+.primary-bg {
+  background-color: var(--primary);
+}
